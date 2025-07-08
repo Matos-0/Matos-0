@@ -15,7 +15,7 @@
 
 ##  Currently Studying
 
-> 
+> Sou desenvolvedor com foco em backend e estou atualmente ampliando meu stack com estudos em Python e Java, além de aprofundar meus conhecimentos em arquitetura de software. Busco evoluir na construção de sistemas robustos, escaláveis e bem estruturados, aplicando boas práticas de desenvolvimento e padrões arquiteturais que promovam manutenibilidade e performance.
 
 
 ## 📊 GitHub Stats
