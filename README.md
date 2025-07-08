@@ -20,10 +20,7 @@
 
 ## 📊 GitHub Stats
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmmatosdev&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmmatosdev&layout=compact&theme=github_dark" />
-</div>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matos-0&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
 
 ## 📫 Contact
 
