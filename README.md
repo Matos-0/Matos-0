@@ -1,5 +1,7 @@
 
-# # Hi there, I'm Matos
+# Hi there, I'm Matos
+
+## Overview
 
 ##  Technologies & Tools
 
@@ -15,8 +17,9 @@
 
 ##  Currently Studying
 
-> Sou desenvolvedor com foco em backend e estou atualmente ampliando meu stack com estudos em Python e Java, além de aprofundar meus conhecimentos em arquitetura de software. Busco evoluir na construção de sistemas robustos, escaláveis e bem estruturados, aplicando boas práticas de desenvolvimento e padrões arquiteturais que promovam manutenibilidade e performance.
+> [PT] Sou desenvolvedor com foco em backend e estou atualmente ampliando meu stack com estudos em Python e Java, além de aprofundar meus conhecimentos em arquitetura de software. Busco evoluir na construção de sistemas robustos, escaláveis e bem estruturados, aplicando boas práticas de desenvolvimento e padrões arquiteturais que promovam manutenibilidade e performance.
 
+> [EN] I’m a developer focused on backend and currently expanding my tech stack through studies in Python and Java, while deepening my knowledge in software architecture. I aim to grow in building robust, scalable, and well-structured systems, applying best development practices and architectural patterns that promote maintainability and performance.
 
 ## 📊 GitHub Stats
 
