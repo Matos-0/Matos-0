@@ -1,15 +1,35 @@
+## Perfil Overview
 
-# Hi there, I'm Matos
+## Technologies & Tools
 
-## Overview
+### Desenvolvimento Backend & APIs
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" alt="Java"/> **Java Eco:** Spring Boot e WebFlux para sistemas reativos e de alta performance.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python"/> **Node.js & Python:** Construção de microserviços escaláveis com TypeScript, FastAPI e Django.
+  - **Arquitetura:** Implementação de padrões RESTful, Clean Architecture e princípios SOLID.
 
-##  Technologies & Tools
+### Dados & Persistência
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL"/> **SQL & NoSQL:** Modelagem em PostgreSQL e experiência com DBMaker.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="20" alt="Elasticsearch"/> **Busca & Performance:** Implementação de busca indexada e análise de dados com Elasticsearch.
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python"/> Python
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" alt="Java"/> Java
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" alt="Spring"/> Spring | WebFlux
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" alt="Shell Script"/> Shell Script
+### DevOps & Ferramental
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker"/> **Containerização:** Orquestração de ambientes de desenvolvimento e produção com Docker.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" alt="Git"/> **CI/CD & Versionamento:** Fluxos de trabalho avançados em Git/GitHub (Gitflow, Code Review e Actions).
 
+### Data Apps & Interface
+- 🎈 **Visualização:** Desenvolvimento de dashboards e ferramentas internas utilizando Streamlit.
+
+---
+
+## Featured Project
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" alt="Java"/> [CryptoSentinel](https://github.com/Matos-0/CryptoSentinel)
+
+Sistema de monitoramento reativo de criptomoedas desenvolvido com **Java 21** e **Spring Boot 3**.
+
+- **WebStack:** Spring WebFlux (Programação Reativa)
+- **Data:** Spring Data Elasticsearch
+- **Ingestão:** Integração em tempo real com a API **CoinGecko** via WebClient
+- **Infra:** Docker & Docker Compose para orquestração de serviços
 ##  Distros
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="20" alt="Debian"/> Debian  
