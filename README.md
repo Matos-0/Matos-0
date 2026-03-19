@@ -7,8 +7,7 @@
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python"/> Python
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" alt="Java"/> Java
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" alt="Spring"/> Spring
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" alt="WebFlux"/> - Spring WebFlux
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" alt="Spring"/> Spring | WebFlux
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" alt="Shell Script"/> Shell Script
 
 ##  Distros
