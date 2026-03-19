@@ -5,11 +5,11 @@
 
 ##  Technologies & Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python"/> Python
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" alt="Java"/> Java
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" alt="Spring"/> Spring
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" alt="WebFlux"/> Spring WebFlux
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" alt="Shell Script"/> Shell Script
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python"/> Python
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" alt="Java"/> Java
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" alt="Spring"/> Spring
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" alt="WebFlux"/> - Spring WebFlux
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" alt="Shell Script"/> Shell Script
 
 ##  Distros
 
@@ -29,11 +29,11 @@
 
 Uma solução robusta para monitoramento de criptomoedas desenvolvida com foco em performance e escalabilidade.
 
-    - Stack: Java 21, Spring Boot 3 e Spring WebFlux.
+- Stack: Java 21, Spring Boot 3 e Spring WebFlux.
 
-    - Data: Persistência e busca eficiente utilizando Elasticsearch.
+- Data: Persistência e busca eficiente utilizando Elasticsearch.
 
-    - Destaque: Arquitetura reativa para ingestão de dados em tempo real via API CoinGecko.
+- Destaque: Arquitetura reativa para ingestão de dados em tempo real via API CoinGecko.
 
 ## 📊 GitHub Stats
 
