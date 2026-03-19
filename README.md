@@ -62,3 +62,6 @@ Uma solução robusta para monitoramento de criptomoedas desenvolvida com foco e
 
 - 📧 **Gmail**: [gmmatosdev@gmail.com](mailto:gmmatosdev@gmail.com)  
 - 💼 **LinkedIn**: [Gabriel Matos](https://www.linkedin.com/in/gabriel-matos/)
+
+![Meu Banner](git_banner.png)
+
