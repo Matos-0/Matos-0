@@ -4,12 +4,14 @@
 
 ### Desenvolvimento Backend & APIs
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" alt="Java"/> **Java Eco:** Spring Boot e WebFlux para sistemas reativos e de alta performance.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20" alt="Go"/> **Go (Golang):** Desenvolvimento de soluções eficientes, de alta concorrência e baixa latência.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python"/> **Node.js & Python:** Construção de microserviços escaláveis com TypeScript, FastAPI e Django.
   - **Arquitetura:** Implementação de padrões RESTful, Clean Architecture e princípios SOLID.
 
 ### Dados & Persistência
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL"/> **SQL & NoSQL:** Modelagem em PostgreSQL e experiência com DBMaker.
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="20" alt="Elasticsearch"/> **Busca & Performance:** Implementação de busca indexada e análise de dados com Elasticsearch.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" alt="Redis"/> **Estratégias de Cache & Performance:** Arquitetura *Cache Aside* com Redis e PostgreSQL para dados de alta volatilidade e tempo real (como dashboards de preços). Redução drástica de latência (escala de microssegundos) via tratamento eficiente de *Cache Hit* / *Cache Miss* e invalidação inteligente de chaves.
 
 ### DevOps & Ferramental
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker"/> **Containerização:** Orquestração de ambientes de desenvolvimento e produção com Docker.
@@ -41,18 +43,6 @@ Sistema de monitoramento reativo de criptomoedas desenvolvido com **Java 21** e 
 > [PT] Sou desenvolvedor com foco em backend e estou atualmente ampliando meu stack com estudos em Python e Java, além de aprofundar meus conhecimentos em arquitetura de software. Busco evoluir na construção de sistemas robustos, escaláveis e bem estruturados, aplicando boas práticas de desenvolvimento e padrões arquiteturais que promovam manutenibilidade e performance.
 
 > [EN] I’m a developer focused on backend and currently expanding my tech stack through studies in Python and Java, while deepening my knowledge in software architecture. I aim to grow in building robust, scalable, and well-structured systems, applying best development practices and architectural patterns that promote maintainability and performance.
-
-
-## Featured Project
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" alt="Java"/> CryptoSentinel
-
-Uma solução robusta para monitoramento de criptomoedas desenvolvida com foco em performance e escalabilidade.
-
-- Stack: Java 21, Spring Boot 3 e Spring WebFlux.
-
-- Data: Persistência e busca eficiente utilizando Elasticsearch.
-
-- Destaque: Arquitetura reativa para ingestão de dados em tempo real via API CoinGecko.
 
 ## 📊 GitHub Stats
 
