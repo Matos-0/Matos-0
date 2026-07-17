@@ -4,7 +4,6 @@
 
 ### Desenvolvimento Backend & APIs
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" alt="Java"/> **Java Eco:** Spring Boot e WebFlux para sistemas reativos e de alta performance.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20" alt="Go"/> **Go (Golang):** Desenvolvimento de soluções eficientes, de alta concorrência e baixa latência.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python"/> **Node.js & Python:** Construção de microserviços escaláveis com TypeScript, FastAPI e Django.
   - **Arquitetura:** Implementação de padrões RESTful, Clean Architecture e princípios SOLID.
 
